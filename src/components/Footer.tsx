@@ -24,7 +24,6 @@ const Footer = () => {
             <h4 className="font-bold mb-4">Contato</h4>
             <ul className="space-y-2 text-background/80">
               <li>📧 contato@slimnutri.com.br</li>
-              <li>📱 WhatsApp: (11) 99999-9999</li>
               <li>🕐 Seg-Sex: 9h às 18h</li>
             </ul>
           </div>
